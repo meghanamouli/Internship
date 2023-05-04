@@ -1,0 +1,20 @@
+1.	C) 15 (30*2 = 60 or 30*3 = 90 so, we pick 60. 75-60 =>  15)
+2.	B) Filter
+3.	A) Tuple	
+4.	D) Error
+5.	A) Raise
+6.	C) Datetime
+7.	C) 208
+8.	B) Strftime
+9.	B) Immutable
+10.	A) Range()
+11.	B) Show function
+12.	A) Serializing Python object structure
+13.	B) dump() method
+14.	A) load()
+15.	D) All of the mentioned above
+16.	A) for ship, captain in captains.items(): print(ship, captain)
+17.	C) captains.dict() 
+18.	c) captains = { "Enterprise": "Picard", "Voyager": "Janeway", "Defiant": "Sisko", } 
+19.	b) for ship, captain in captains.items():  print(f"The {ship} is captained by {captain}.")
+20.	c) del captains["Enterprise"] print(captains)
